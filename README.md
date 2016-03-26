@@ -1,7 +1,7 @@
 Astrological Symbols for Sublime Text 2/3
 ==================================
 
-This package Provides completion for astrological symbols (mainly planet symbols) in Sublime Text 2/3. Just enter a the name of the desired symbol and press `<Tab>`.
+This package Provides completion for astrological symbols (mainly planetary parameters) in Sublime Text 2/3. Just enter a the name of the desired symbol and press `<Tab>`.
 
 
 Examples
@@ -10,6 +10,8 @@ Examples
 | Entered Text     |  Result  |
 | :-------------   | :------: |
 | `earth<tab>`     |   `🜨`    |
+| `rearth<tab>`    |   `R🜨`   |
+| `muearth<tab>`   |   `μ🜨`   |
 | `sun<tab>`       |   `☉`    |
 | `omegatilde<tab>`|   `ω̃`    |
 
