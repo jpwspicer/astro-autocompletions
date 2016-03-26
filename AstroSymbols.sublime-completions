@@ -2,18 +2,28 @@
   "scope": "",
 	"completions":
 	[
-		{ "trigger": "sun", 		"contents": "☉" },
-		{ "trigger": "mercury", 	"contents": "☿" },
-		{ "trigger": "venus", 		"contents": "♀" },
-		{ "trigger": "earth", 		"contents": "🜨" },
-		{ "trigger": "moon", 		"contents": "☾" },
-		{ "trigger": "mars", 		"contents": "♂" },
-		{ "trigger": "jupiter", 	"contents": "♃" },
-		{ "trigger": "saturn", 		"contents": "♄" },
-		{ "trigger": "uranus", 		"contents": "♅" },
-		{ "trigger": "neptune", 	"contents": "♆" },
-		{ "trigger": "pluto", 		"contents": "♇" },
+		{ "trigger": "sun", 		"contents": "☉" 	},
+		{ "trigger": "rsun", 		"contents": "R☉" 	},
+		{ "trigger": "musun", 		"contents": "μ☉" 	},
 
-		{ "trigger": "omegatilde", 	"contents": "ω̃" }
+		{ "trigger": "mercury", 	"contents": "☿" 	},
+		{ "trigger": "venus", 		"contents": "♀" 	},
+
+		{ "trigger": "earth", 		"contents": "🜨" 		},
+		{ "trigger": "rearth", 		"contents": "R🜨" 	},
+		{ "trigger": "muearth", 	"contents": "μ🜨" 	},
+
+		{ "trigger": "moon", 		"contents": "☾" 	},
+		{ "trigger": "rmoon", 		"contents": "R☾" 	},
+		{ "trigger": "mumoon", 		"contents": "μ☾" 	},
+
+		{ "trigger": "mars", 		"contents": "♂" 	},
+		{ "trigger": "jupiter", 	"contents": "♃" 	},
+		{ "trigger": "saturn", 		"contents": "♄" 	},
+		{ "trigger": "uranus", 		"contents": "♅" 	},
+		{ "trigger": "neptune", 	"contents": "♆" 	},
+		{ "trigger": "pluto", 		"contents": "♇" 	},
+
+		{ "trigger": "omegatilde", 	"contents": "ω̃" 	}
 	]
 }
