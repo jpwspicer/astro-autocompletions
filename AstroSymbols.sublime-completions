@@ -4,6 +4,7 @@
 	[
 		{ "trigger": "sun", 		"contents": "☉" 	},
 		{ "trigger": "rsun", 		"contents": "R☉" 	},
+		{ "trigger": "msun", 		"contents": "M☉" 	},
 		{ "trigger": "musun", 		"contents": "μ☉" 	},
 
 		{ "trigger": "mercury", 	"contents": "☿" 	},
@@ -11,6 +12,7 @@
 
 		{ "trigger": "earth", 		"contents": "🜨" 		},
 		{ "trigger": "rearth", 		"contents": "R🜨" 	},
+		{ "trigger": "mearth", 		"contents": "M🜨" 	},
 		{ "trigger": "muearth", 	"contents": "μ🜨" 	},
 		{ "trigger": "omegaearth", 	"contents": "ω🜨" 	},
 
