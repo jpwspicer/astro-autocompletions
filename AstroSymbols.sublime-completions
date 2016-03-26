@@ -1,0 +1,19 @@
+{
+  "scope": "",
+	"completions":
+	[
+		{ "trigger": "sun", 		"contents": "☉" },
+		{ "trigger": "mercury", 	"contents": "☿" },
+		{ "trigger": "venus", 		"contents": "♀" },
+		{ "trigger": "earth", 		"contents": "🜨" },
+		{ "trigger": "moon", 		"contents": "☾" },
+		{ "trigger": "mars", 		"contents": "♂" },
+		{ "trigger": "jupiter", 	"contents": "♃" },
+		{ "trigger": "saturn", 		"contents": "♄" },
+		{ "trigger": "uranus", 		"contents": "♅" },
+		{ "trigger": "neptune", 	"contents": "♆" },
+		{ "trigger": "pluto", 		"contents": "♇" },
+
+		{ "trigger": "omegatilde", 	"contents": "ω̃" }
+	]
+}
