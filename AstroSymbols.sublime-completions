@@ -27,6 +27,8 @@
 		{ "trigger": "neptune", 	"contents": "♆" 	},
 		{ "trigger": "pluto", 		"contents": "♇" 	},
 
+
+		{ "trigger": "epsilonbar", 	"contents": "ε̄" 	}
 		{ "trigger": "omegatilde", 	"contents": "ω̃" 	}
 	]
 }
