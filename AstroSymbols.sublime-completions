@@ -28,7 +28,7 @@
 		{ "trigger": "pluto", 		"contents": "♇" 	},
 
 
-		{ "trigger": "epsilonbar", 	"contents": "ε̄" 	}
+		{ "trigger": "epsilonbar", 	"contents": "ε̄" 	},
 		{ "trigger": "omegatilde", 	"contents": "ω̃" 	}
 	]
 }
