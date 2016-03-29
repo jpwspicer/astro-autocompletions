@@ -4,7 +4,8 @@
 	[
 		{ "trigger": "sun", 		"contents": "☉" 	},
 		{ "trigger": "rsun", 		"contents": "R☉" 	},
-		{ "trigger": "msun", 		"contents": "M☉" 	},
+		{ "trigger": "reSun", 		"contents": "R☉" 	},
+		{ "trigger": "msun", 		"contents": "m☉" 	},
 		{ "trigger": "musun", 		"contents": "μ☉" 	},
 
 		{ "trigger": "mercury", 	"contents": "☿" 	},
@@ -12,12 +13,14 @@
 
 		{ "trigger": "earth", 		"contents": "⊕"		},
 		{ "trigger": "rearth", 		"contents": "R⊕" 	},
-		{ "trigger": "mearth", 		"contents": "M⊕" 	},
+		{ "trigger": "reEarth", 	"contents": "R⊕" 	},
+		{ "trigger": "mearth", 		"contents": "m⊕" 	},
 		{ "trigger": "muearth", 	"contents": "μ⊕" 	},
 		{ "trigger": "omegaearth", 	"contents": "ω⊕" 	},
 
 		{ "trigger": "moon", 		"contents": "☾" 	},
 		{ "trigger": "rmoon", 		"contents": "R☾" 	},
+		{ "trigger": "reMoon", 		"contents": "R☾" 	},
 		{ "trigger": "mumoon", 		"contents": "μ☾" 	},
 
 		{ "trigger": "mars", 		"contents": "♂" 	},
