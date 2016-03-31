@@ -9,11 +9,18 @@ Examples
 
 | Entered Text     |  Result  |
 | :-------------   | :------: |
-| `earth<tab>`     |   `🜨`    |
-| `rearth<tab>`    |   `R🜨`   |
-| `muearth<tab>`   |   `μ🜨`   |
+| `earth<tab>`     |   `⨁`    |
+| `rearth<tab>`    |   `R⨁`   |
+| `muearth<tab>`   |   `μ⨁`   |
+| `remoon<tab>`    |   `R☾`   |
 | `sun<tab>`       |   `☉`    |
 | `omegatilde<tab>`|   `ω̃`    |
+| `hvec<tab>`	   |   `h⃗`    |
+| `rvec<tab>`      |   `r⃗`    |
+| `omegavec<tab>`  |   `ω⃗`    |
+
+
+
 
 Installation
 ------------
@@ -25,7 +32,7 @@ Installation
 
 <!-- If you cannot find the package you can also add this repository manually by adding [https://github.com/jpwspicer/sublime/sublime-astro-symbols.git][2] as a Package Control repository. Repeat the steps from above afterwards. -->
 
-You can install this package manually by installing Package Control, press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type in [https://github.com/jpwspicer/sublime-astro-symbols.git][2]. 
+You can install this package manually by installing Package Control, press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type in [https://github.com/jpwspicer/sublime-astro-symbols.git][2].
 
 Then press `<Ctrl+Shift+P>`, choose `Package Control: Install Package`from the list and search for `AstroSymbols`.
 
