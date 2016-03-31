@@ -32,6 +32,20 @@
 
 
 		{ "trigger": "epsilonbar", 	"contents": "ε̄" 	},
-		{ "trigger": "omegatilde", 	"contents": "ω̃" 	}
+		{ "trigger": "omegatilde", 	"contents": "ω̃" 	},
+
+
+		{ "trigger": "evec", 		"contents": "e⃗" 	},
+		{ "trigger": "hvec", 		"contents": "h⃗" 	},
+		{ "trigger": "nvec", 		"contents": "n⃗" 	},
+		{ "trigger": "rvec", 		"contents": "r⃗" 	},
+		{ "trigger": "vvec", 		"contents": "v⃗" 	},
+
+
+		{ "trigger": "rhovec", 		"contents": "ρ⃗" 	},
+		{ "trigger": "omegavec",	"contents": "ω⃗" 	},
+
+
+		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
 }
