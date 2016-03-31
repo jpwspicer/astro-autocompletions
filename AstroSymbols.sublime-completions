@@ -11,12 +11,12 @@
 		{ "trigger": "mercury", 	"contents": "☿" 	},
 		{ "trigger": "venus", 		"contents": "♀" 	},
 
-		{ "trigger": "earth", 		"contents": "⊕"		},
-		{ "trigger": "rearth", 		"contents": "R⊕" 	},
-		{ "trigger": "reEarth", 	"contents": "R⊕" 	},
-		{ "trigger": "mearth", 		"contents": "m⊕" 	},
-		{ "trigger": "muearth", 	"contents": "μ⊕" 	},
-		{ "trigger": "omegaearth", 	"contents": "ω⊕" 	},
+		{ "trigger": "earth", 		"contents": "⨁"		},
+		{ "trigger": "rearth", 		"contents": "R⨁" 	},
+		{ "trigger": "reEarth", 	"contents": "R⨁" 	},
+		{ "trigger": "mearth", 		"contents": "m⨁" 	},
+		{ "trigger": "muearth", 	"contents": "μ⨁" 	},
+		{ "trigger": "omegaearth", 	"contents": "ω⨁" 	},
 
 		{ "trigger": "moon", 		"contents": "☾" 	},
 		{ "trigger": "rmoon", 		"contents": "R☾" 	},
