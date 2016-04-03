@@ -7,6 +7,9 @@
 		{ "trigger": "reSun", 		"contents": "R☉" 	},
 		{ "trigger": "msun", 		"contents": "m☉" 	},
 		{ "trigger": "musun", 		"contents": "μ☉" 	},
+		{ "trigger": "alphasun",	"contents": "α☉" 	},
+		{ "trigger": "deltasun",	"contents": "δ☉" 	},
+
 
 		{ "trigger": "mercury", 	"contents": "☿" 	},
 		{ "trigger": "venus", 		"contents": "♀" 	},
@@ -22,6 +25,9 @@
 		{ "trigger": "rmoon", 		"contents": "R☾" 	},
 		{ "trigger": "reMoon", 		"contents": "R☾" 	},
 		{ "trigger": "mumoon", 		"contents": "μ☾" 	},
+		{ "trigger": "alphamoon", 	"contents": "α☾" 	},
+		{ "trigger": "deltamoon", 	"contents": "δ☾" 	},
+
 
 		{ "trigger": "mars", 		"contents": "♂" 	},
 		{ "trigger": "jupiter", 	"contents": "♃" 	},
@@ -45,7 +51,7 @@
 		{ "trigger": "rhovec", 		"contents": "ρ⃗" 	},
 		{ "trigger": "omegavec",	"contents": "ω⃗" 	},
 
-
+		{ "trigger": "2pi",			"contents": "2π" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
 }
