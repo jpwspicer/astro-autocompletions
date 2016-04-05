@@ -52,8 +52,8 @@
 		{ "trigger": "omegavec",	"contents": "ω⃗" 	},
 
 		{ "trigger": "2pi",			"contents": "2π" 	},
-		{ "trigger": "<=",			"contents": "≤" 	},
-		{ "trigger": ">=",			"contents": "≥" 	},
+		{ "trigger": "&lt;=",		"contents": "≤" 	},
+		{ "trigger": "&gt;=",		"contents": "≥" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
 }
