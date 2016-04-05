@@ -47,12 +47,11 @@
 		{ "trigger": "rvec", 		"contents": "r⃗" 	},
 		{ "trigger": "vvec", 		"contents": "v⃗" 	},
 
-
 		{ "trigger": "rhovec", 		"contents": "ρ⃗" 	},
 		{ "trigger": "omegavec",	"contents": "ω⃗" 	},
 
 		{ "trigger": "2pi",			"contents": "2π" 	},
-		{ "trigger": "<string>&lt;=</string>",		"contents": "≤" 	},
+		{ "trigger": "\u003E=",		"contents": "≤" 	},
 		// { "trigger": "&gt;=",		"contents": "≥" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
