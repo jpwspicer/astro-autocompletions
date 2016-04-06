@@ -53,6 +53,7 @@
 		{ "trigger": "2pi",			"contents": "2π" 	},
 		{ "trigger": "\u003E=",		"contents": "≤" 	},
 		{ "trigger": "&gt;=", 		"contents": "≤"},
+		{"trigger": "<=", "contents": "≤"},
 		// { "trigger": "&gt;=",		"contents": "≥" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
