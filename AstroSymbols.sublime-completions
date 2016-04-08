@@ -59,6 +59,7 @@
 		{ "trigger": "asdf", 		"contents": "≤" 	},
 
 		// { "trigger": "&gt;=",		"contents": "≥" 	},
+		{ "trigger": "!=",			"contents": "≠" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
 }
