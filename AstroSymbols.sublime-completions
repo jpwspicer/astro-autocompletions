@@ -60,6 +60,7 @@
 
 		// { "trigger": "&gt;=",		"contents": "≥" 	},
 		{ "trigger": "!=",			"contents": "≠" 	},
+		{ "trigger": "cbrt", 		"contents": "∛" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
 }
