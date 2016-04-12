@@ -52,14 +52,16 @@
 
 		{ "trigger": "2pi",			"contents": "2π" 	},
 
-		{ "trigger": "\u003E=",		"contents": "≤" 	},
-		{ "trigger": "&lt;=", 		"contents": "≤" 	},
-		{ "trigger": "<=", 			"contents": "≤"		},
-		{ "trigger": "text(<=)",	"contents": "≤" 	},
-		{ "trigger": "asdf", 		"contents": "≤" 	},
-
+		// { "trigger": "\u003E=",		"contents": "≤" 	},
+		// { "trigger": "&lt;=", 		"contents": "≤" 	},
+		// { "trigger": "<=", 			"contents": "≤"		},
+		// { "trigger": "text(<=)",	"contents": "≤" 	},
+		// { "trigger": "asdf", 		"contents": "≤" 	},
+		// { "trigger": "!=",			"contents": "≠" 	},
 		// { "trigger": "&gt;=",		"contents": "≥" 	},
-		{ "trigger": "!=",			"contents": "≠" 	},
+
+		{ "trigger": "lat",			"contents": "ϕ" 	},
+		{ "trigger": "lon",			"contents": "λ" 	},
 		{ "trigger": "cbrt", 		"contents": "∛" 	},
 		{ "trigger": "sqrt", 		"contents": "√" 	}
 	]
