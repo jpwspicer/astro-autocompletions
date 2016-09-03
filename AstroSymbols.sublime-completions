@@ -63,6 +63,7 @@
 		{ "trigger": "lat",			"contents": "ϕ" 	},
 		{ "trigger": "lon",			"contents": "λ" 	},
 		{ "trigger": "cbrt", 		"contents": "∛" 	},
-		{ "trigger": "sqrt", 		"contents": "√" 	}
+		{ "trigger": "sqrt", 		"contents": "√" 	},
+		{ "trigger": "prime", 		"contents": "′" 	}
 	]
 }
