@@ -43,7 +43,7 @@
 
 		{ "trigger": "evec", 		"contents": "e⃗" 	},
 		{ "trigger": "hvec", 		"contents": "h⃗" 	},
-		{ "trigger": "hvec", 		"contents": "l⃗" 	},
+		{ "trigger": "lvec", 		"contents": "l⃗" 	},
 		{ "trigger": "nvec", 		"contents": "n⃗" 	},
 		{ "trigger": "rvec", 		"contents": "r⃗" 	},
 		{ "trigger": "vvec", 		"contents": "v⃗" 	},
