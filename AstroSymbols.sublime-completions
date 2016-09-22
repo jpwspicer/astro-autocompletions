@@ -43,6 +43,7 @@
 
 		{ "trigger": "evec", 		"contents": "e⃗" 	},
 		{ "trigger": "hvec", 		"contents": "h⃗" 	},
+		{ "trigger": "hvec", 		"contents": "l⃗" 	},
 		{ "trigger": "nvec", 		"contents": "n⃗" 	},
 		{ "trigger": "rvec", 		"contents": "r⃗" 	},
 		{ "trigger": "vvec", 		"contents": "v⃗" 	},
@@ -51,6 +52,9 @@
 		{ "trigger": "omegavec",	"contents": "ω⃗" 	},
 
 		{ "trigger": "2pi",			"contents": "2π" 	},
+
+		{ "trigger": "sub0",		"contents": "₀" 	},
+		{ "trigger": "sub1",		"contents": "₁" 	},
 
 		// { "trigger": "\u003E=",		"contents": "≤" 	},
 		// { "trigger": "&lt;=", 		"contents": "≤" 	},
