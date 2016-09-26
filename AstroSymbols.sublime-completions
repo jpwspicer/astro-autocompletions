@@ -533,7 +533,9 @@
 		{ "trigger": "lat",			"contents": "ϕ" 	},
 		{ "trigger": "lon",			"contents": "λ" 	},
 
-
+		{ "trigger": "dot",			"contents": "̇" 		},
+		{ "trigger": "ddot",		"contents": "̈" 		},
+		{ "trigger": "vec",			"contents": "⃗" 		},
 
 		{ "trigger": "deg", 		"contents": "°" 	},
 		{ "trigger": "degree", 		"contents": "°" 	},
