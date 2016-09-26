@@ -56,7 +56,7 @@
 		{ "trigger": "Psi", 		"contents": "Ψ",	},
 		{ "trigger": "Omega", 		"contents": "Ω",	},
 
-// Vectors - Lowercase Latin letters
+// Vectors - Lowercase Roman letters
 		{ "trigger": "avec",		"contents": "a⃗", 	},
 		{ "trigger": "bvec",		"contents": "b⃗", 	},
 		{ "trigger": "cvec",		"contents": "c⃗", 	},
@@ -84,7 +84,7 @@
 		{ "trigger": "yvec",		"contents": "y⃗", 	},
 		{ "trigger": "zvec",		"contents": "z⃗", 	},
 
-// Vectors - Uppercase Latin letters
+// Vectors - Uppercase Roman letters
 		{ "trigger": "Avec",		"contents": "A⃗", 	},
 		{ "trigger": "Bvec",		"contents": "B⃗", 	},
 		{ "trigger": "Cvec",		"contents": "C⃗", 	},
@@ -166,7 +166,7 @@
 		{ "trigger": "Psivec",		"contents": "Ψ⃗", 	},
 		{ "trigger": "Omegavec",	"contents": "Ω⃗", 	},
 
-// Dot Derivatives - Lowercase Latin letters
+// Dot Derivatives - Lowercase Roman letters
 		{ "trigger": "adot",		"contents": "ȧ", 	},
 		{ "trigger": "bdot",		"contents": "ḃ", 	},
 		{ "trigger": "cdot",		"contents": "ċ", 	},
@@ -194,7 +194,7 @@
 		{ "trigger": "ydot",		"contents": "ẏ", 	},
 		{ "trigger": "zdot",		"contents": "ż", 	},
 
-// Dot Derivatives - Uppercase Latin letters
+// Dot Derivatives - Uppercase Roman letters
 		{ "trigger": "Adot",		"contents": "Ȧ", 	},
 		{ "trigger": "Bdot",		"contents": "Ḃ", 	},
 		{ "trigger": "Cdot",		"contents": "Ċ", 	},
@@ -276,7 +276,7 @@
 		{ "trigger": "Psidot",		"contents": "Ψ̇", 	},
 		{ "trigger": "Omegadot",	"contents": "Ω̇", 	},
 
-// Double-Dot Derivatives - Lowercase Latin letters
+// Double-Dot Derivatives - Lowercase Roman letters
 		{ "trigger": "addot",		"contents": "ä", 	},
 		{ "trigger": "bddot",		"contents": "b̈", 	},
 		{ "trigger": "cddot",		"contents": "c̈", 	},
@@ -304,7 +304,7 @@
 		{ "trigger": "yddot",		"contents": "ÿ", 	},
 		{ "trigger": "zddot",		"contents": "z̈", 	},
 
-// ddot Derivatives - Uppercase Latin letters
+// ddot Derivatives - Uppercase Roman letters
 		{ "trigger": "Addot",		"contents": "Ä", 	},
 		{ "trigger": "Bddot",		"contents": "B̈", 	},
 		{ "trigger": "Cddot",		"contents": "C̈", 	},
@@ -388,7 +388,7 @@
 
 
 
-// Superscripts - Latin numerals
+// Superscripts - Roman numerals
 		{ "trigger": "^0", 			"contents": "⁰"		},
 		{ "trigger": "^1", 			"contents": "¹"		},
 		{ "trigger": "^2", 			"contents": "²"		},
@@ -400,7 +400,7 @@
 		{ "trigger": "^8", 			"contents": "⁸"		},
 		{ "trigger": "^9", 			"contents": "⁹"		},
 
-// Superscripts - Uppercase Latin Letters
+// Superscripts - Uppercase Roman Letters
 		{ "trigger": "^A", 			"contents": "ᴬ"		},
 		{ "trigger": "^B", 			"contents": "ᴮ"		},
 		{ "trigger": "^D", 			"contents": "ᴰ"		},
@@ -421,7 +421,7 @@
 		{ "trigger": "^V", 			"contents": "ⱽ"		},
 		{ "trigger": "^W", 			"contents": "ᵂ"		},
 
-// Superscripts - Lowercase Latin Letters
+// Superscripts - Lowercase Roman Letters
 		{ "trigger": "^a", 			"contents": "ᵃ"		},
 		{ "trigger": "^b", 			"contents": "ᵇ"		},
 		{ "trigger": "^c", 			"contents": "ᶜ"		},
@@ -457,7 +457,7 @@
 		{ "trigger": "^ϕ", 			"contents": "ᵠ"		},
 		{ "trigger": "^χ", 			"contents": "ᵡ"		},
 
-// Subscripts - Latin Numerals
+// Subscripts - Roman Numerals
 		{ "trigger": "_0", 			"contents": "₀"		},
 		{ "trigger": "_1", 			"contents": "₁"		},
 		{ "trigger": "_2", 			"contents": "₂"		},
@@ -469,7 +469,7 @@
 		{ "trigger": "_8", 			"contents": "₈"		},
 		{ "trigger": "_9", 			"contents": "₉"		},
 
-// Subscripts - Lowercase Latin letters
+// Subscripts - Lowercase Roman letters
 		{ "trigger": "_a", 			"contents": "ₐ"		},
 		{ "trigger": "_e", 			"contents": "ₑ"		},
 		{ "trigger": "_i", 			"contents": "ᵢ"		},
@@ -529,6 +529,8 @@
 
 
 		{ "trigger": "2pi",			"contents": "2π" 	},
+		{ "trigger": "micro",		"contents": "μ" 	},
+		{ "trigger": "check",		"contents": "✓" 	},
 
 		{ "trigger": "lat",			"contents": "ϕ" 	},
 		{ "trigger": "lon",			"contents": "λ" 	},
@@ -536,10 +538,15 @@
 		{ "trigger": "dot",			"contents": "̇" 		},
 		{ "trigger": "ddot",		"contents": "̈" 		},
 		{ "trigger": "vec",			"contents": "⃗" 		},
+		{ "trigger": "bar",			"contents": "̄" 		},
+		{ "trigger": "tilde",		"contents": "̃" 		},
+
+
 
 		{ "trigger": "deg", 		"contents": "°" 	},
 		{ "trigger": "degree", 		"contents": "°" 	},
 		{ "trigger": "pm", 			"contents": "±" 	},
+		{ "trigger": "neq", 		"contents": "≠" 	},
 		{ "trigger": "cross", 		"contents": "⨯" 		},
 		{ "trigger": "mult", 		"contents": "⨯" 		},
 		{ "trigger": "div", 		"contents": "÷" 	},
