@@ -12,7 +12,7 @@ Examples
 --------
 
 | Entered Text     |  Result  |
-| :-------------   | :------: |
+| ------:          | :----    |
 | `earth<tab>`     |   `⨁`    |
 | `muearth<tab>`   |   `μ⨁`   |
 | `remoon<tab>`    |   `R☾`   |
