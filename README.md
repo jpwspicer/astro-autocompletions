@@ -1,10 +1,11 @@
 Astronomical & Mathematical Symbols for Sublime Text
 ==================================
 
-Warning: This package may appear to be missing characters, or they may not display correctly in your browser, text editor, and/or REPL. If this is the case, check your choice of fonts in these applications, as there are known issues with glyphs in many fonts. [FreeMono][0] displays the majority of the glyphs correctly.
-
 
 This package Provides auto-completion for unicode astronomical and mathematical symbols in Sublime Text. It includes celestial symbols (⨁, ♂, ☉, ♃, etc.), Greek letters (α, Γ, Ω, ω, etc.), vector notation (g⃗, f⃗, β⃗, Ω⃗, etc.), dot- and double-dot derivative notation (ȧ, Q̇, μ̈, ϕ̈, etc.), super- and subscripts ( ₀, ₂, ², ⁵, etc.), and various other symbols (⨯, ω̃, ÷, °, ∛, etc.). Just enter a the name of the desired symbol and press `<tab>`.
+
+
+Warning: This package may appear to be missing characters, or they may not display correctly in your browser, text editor, and/or REPL. If this is the case, check your choice of fonts in these applications, as there are known issues with glyphs in many fonts. [FreeMono][0] displays the majority of the glyphs correctly.
 
 
 Examples
