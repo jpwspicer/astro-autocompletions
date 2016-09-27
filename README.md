@@ -33,7 +33,7 @@ Installation
 
 ### Package Control
 
-You can install this package manually by installing [Package Control][1], press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type in [https://github.com/jpwspicer/sublime-astro-symbols.git][2].
+You can install this package manually by installing [Package Control][1], press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type or paste [`https://github.com/jpwspicer/sublime-astro-symbols.git`][2].
 
 Then press `<Ctrl+Shift+P>`, choose `Package Control: Install Package`from the list and search for `AstroSymbols`.
 
