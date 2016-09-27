@@ -41,11 +41,11 @@ If that doesn't work, press `<Ctrl+Shift+P>`, choose `Package Control: Advanced 
 
 ### Git Clone
 
-Clone this repository in to the Sublime Text 2/3 `Packages` directory, which is located whereever the _Preferences_ → _Browse Packages_ option in Sublime.
+Clone this repository in to the Sublime Text `Packages` directory, which is located whereever the _Preferences_ → _Browse Packages_ option in Sublime.
 
 ### Git Copy
 
-Alternately, you can download a [copy of this package][3], rename the file to `AstroSymbols.sublime-package` and move it to the `Installed Packages` directory which is located in the same directory as the `Packages` directory. Afterwards, restart Sublime and you're done.
+Alternately, you can [download][3] a copy of this package, rename the file to `AstroSymbols.sublime-package` and move it to the `Installed Packages` directory which is located in the same directory as the `Packages` directory. Afterwards, restart Sublime and you're done.
 
 [0]: http://www.fontspace.com/gnu-freefont/freemono "FreeMono Font"
 [1]: https://packagecontrol.io/ "Package Control"
