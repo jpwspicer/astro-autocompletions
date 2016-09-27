@@ -528,7 +528,7 @@ Complete List of Auto-Completions
 | `pluto` 		   |   `♇`                	|
 | `epsilonbar` 	   |   `ε̄`                	|
 | `omegatilde` 	   |   `ω̃`                	|
-| `2pi`			   |   `2π                	|
+| `2pi`			   |   `2π`                	|
 | `micro`		   |   `μ`                	|
 | `check`		   |   `✓`                	|
 | `lat`			   |   `ϕ`                	|
