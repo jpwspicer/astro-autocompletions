@@ -449,13 +449,13 @@
 		{ "trigger": "^z", 			"contents": "ᶻ"		},
 
 // Superscripts - Lowercase Greek letters
-		{ "trigger": "^β", 			"contents": "ᵝ"		},
-		{ "trigger": "^γ", 			"contents": "ᵞ"		},
-		{ "trigger": "^δ", 			"contents": "ᵟ"		},
-		{ "trigger": "^θ", 			"contents": "ᶿ"		},
-		{ "trigger": "^ι", 			"contents": "ᶥ"		},
-		{ "trigger": "^ϕ", 			"contents": "ᵠ"		},
-		{ "trigger": "^χ", 			"contents": "ᵡ"		},
+		{ "trigger": "^beta", 		"contents": "ᵝ"		},
+		{ "trigger": "^gamma", 		"contents": "ᵞ"		},
+		{ "trigger": "^delta", 		"contents": "ᵟ"		},
+		{ "trigger": "^theta", 		"contents": "ᶿ"		},
+		{ "trigger": "^iota", 		"contents": "ᶥ"		},
+		{ "trigger": "^phi", 		"contents": "ᵠ"		},
+		{ "trigger": "^chi", 		"contents": "ᵡ"		},
 
 // Subscripts - Roman Numerals
 		{ "trigger": "_0", 			"contents": "₀"		},
