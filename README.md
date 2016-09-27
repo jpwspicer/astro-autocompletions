@@ -56,8 +56,8 @@ Complete List of Auto-Completions
 -----------------------------
 
 
-| Entered Text     |  Result after\n `<tab>`	|
-| -------------:   | :------ 			  	|
+| Entered Text     |  Result after `<tab>`	|
+| -----:      	   | :------ 			  	|
 | `alpha` 		   |   `α`    			  	|
 | `beta` 		   |   `β`    			  	|
 | `gamma` 		   |   `γ`    			  	|
