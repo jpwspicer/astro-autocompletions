@@ -472,13 +472,22 @@
 // Subscripts - Lowercase Roman letters
 		{ "trigger": "_a", 			"contents": "ₐ"		},
 		{ "trigger": "_e", 			"contents": "ₑ"		},
+		{ "trigger": "_h", 			"contents": "ₕ"		},
 		{ "trigger": "_i", 			"contents": "ᵢ"		},
 		{ "trigger": "_j", 			"contents": "ⱼ"		},
+		{ "trigger": "_k", 			"contents": "ₖ"		},
+		{ "trigger": "_l", 			"contents": "ₗ"		},
+		{ "trigger": "_m", 			"contents": "ₘ"		},
+		{ "trigger": "_n", 			"contents": "ₙ"		},
 		{ "trigger": "_o", 			"contents": "ₒ"		},
+		{ "trigger": "_p", 			"contents": "ₚ"		},
 		{ "trigger": "_r", 			"contents": "ᵣ"		},
+		{ "trigger": "_s", 			"contents": "ₛ"		},
+		{ "trigger": "_t", 			"contents": "ₜ"		},
 		{ "trigger": "_u", 			"contents": "ᵤ"		},
 		{ "trigger": "_v", 			"contents": "ᵥ"		},
 		{ "trigger": "_x", 			"contents": "ₓ"		},
+
 
 // Subscripts - lowercase Greek letters
 		{ "trigger": "_beta", 		"contents": "ᵦ"		},
