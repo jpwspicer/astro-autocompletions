@@ -1,6 +1,9 @@
 Astronomical & Mathematical Symbols for Sublime Text
 ==================================
 
+Warning: This package may appear to be missing characters, or they may not display correctly in your browser, text editor, and/or REPL. If this is the case, check your choice of fonts in these applications, as there are known issues with glyphs in many fonts. [FreeMono][0] displays the majority of the glyphs correctly.
+
+
 This package Provides auto-completion for unicode astronomical and mathematical symbols in Sublime Text. It includes celestial symbols (⨁, ♂, ☉, ♃, etc.), Greek letters (α, Γ, Ω, ω, etc.), vector notation (g⃗, f⃗, β⃗, Ω⃗, etc.), dot- and double-dot derivative notation (ȧ, Q̇, μ̈, ϕ̈, etc.), super- and subscripts ( ₀, ₂, ², ⁵, etc.), and various other symbols (⨯, ω̃, ÷, °, ∛, etc.). Just enter a the name of the desired symbol and press `<tab>`.
 
 
@@ -29,7 +32,7 @@ Installation
 
 ### Package Control
 
-You can install this package manually by installing Package Control, press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type in [https://github.com/jpwspicer/sublime-astro-symbols.git][2].
+You can install this package manually by installing [Package Control][1], press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type in [https://github.com/jpwspicer/sublime-astro-symbols.git][2].
 
 Then press `<Ctrl+Shift+P>`, choose `Package Control: Install Package`from the list and search for `AstroSymbols`.
 
@@ -43,11 +46,12 @@ Clone this repository in to the Sublime Text 2/3 `Packages` directory, which is 
 
 Alternately, you can download a [copy of this package][3], rename the file to `AstroSymbols.sublime-package` and move it to the `Installed Packages` directory which is located in the same directory as the `Packages` directory. Afterwards, restart Sublime and you're done.
 
+[0]: http://www.fontspace.com/gnu-freefont/freemono "FreeMono Font"
 [1]: https://packagecontrol.io/ "Package Control"
 [2]: https://github.com/jpwspicer/sublime-astro-symbols.git "Astro Symbols on GitHub"
 [3]: https://github.com/jpwspicer/sublime-astro-symbols/archive/master.zip "ZIP-Archive of Astro Symbols"
 
-Complete Auto-Completion List
+Complete List of Auto-Completions
 -----------------------------
 
 
