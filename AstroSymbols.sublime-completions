@@ -556,6 +556,8 @@
 		{ "trigger": "degree", 		"contents": "°" 	},
 		{ "trigger": "pm", 			"contents": "±" 	},
 		{ "trigger": "neq", 		"contents": "≠" 	},
+		{ "trigger": "approx", 		"contents": "≈" 	},
+		{ "trigger": "napprox", 	"contents": "≉" 	},
 		{ "trigger": "cross", 		"contents": "×" 	},
 		{ "trigger": "mult", 		"contents": "×" 	},
 		{ "trigger": "div", 		"contents": "÷" 	},
