@@ -563,6 +563,8 @@
 		{ "trigger": "neq", 			"contents": "≠" 	},
 		{ "trigger": "approx", 			"contents": "≈" 	},
 		{ "trigger": "napprox", 		"contents": "≉" 	},
+		{ "trigger": "prop", 			"contents": "∝" 	},
+
 		{ "trigger": "cross", 			"contents": "×" 	},
 		{ "trigger": "mult", 			"contents": "×" 	},
 		{ "trigger": "div", 			"contents": "÷" 	},
