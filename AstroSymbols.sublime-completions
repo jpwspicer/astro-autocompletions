@@ -565,7 +565,7 @@
 		{ "trigger": "napprox", 		"contents": "≉" 	},
 		{ "trigger": "prop", 			"contents": "∝" 	},
 
-		{ "trigger": "cdot", 			"contents": "·"		},
+		{ "trigger": "middot", 			"contents": "·"		},
 		{ "trigger": "cross", 			"contents": "×" 	},
 		{ "trigger": "mult", 			"contents": "×" 	},
 		{ "trigger": "div", 			"contents": "÷" 	},

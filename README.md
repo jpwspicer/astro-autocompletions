@@ -542,7 +542,7 @@ Complete List of Auto-Completions
 | `degree` 		   |   `°`                	|
 | `pm` 			   |   `±`                	|
 | `neq` 		   |   `≠`                	|
-| `cdot` 		   |   `·` 					|
+| `middot` 		   |   `·` 					|
 | `cross` 		   |   `⨯`                	|
 | `mult` 		   |   `⨯`                	|
 | `div` 		   |   `÷`                	|
