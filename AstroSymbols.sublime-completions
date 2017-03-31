@@ -571,6 +571,10 @@
 		{ "trigger": "div", 			"contents": "÷" 	},
 		{ "trigger": "cbrt", 			"contents": "∛" 	},
 		{ "trigger": "sqrt", 			"contents": "√" 	},
+		{ "trigger": "sqrt", 			"contents": "√" 	},
+		{ "trigger": "otimes", 			"contents": "⊗" 	},
+		{ "trigger": "kron", 			"contents": "⊗" 	},
+
 		{ "trigger": "prime", 			"contents": "′" 	},
 		{ "trigger": "pprime", 			"contents": "″" 	},
 		{ "trigger": "ppprime", 		"contents": "‴" 	},
