@@ -540,6 +540,7 @@ Complete List of Auto-Completions
 | `tilde`		   |   `̃`                	|
 | `deg` 		   |   `°`                	|
 | `degree` 		   |   `°`                	|
+| `angle` 		   |   `∠` 					|
 | `pm` 			   |   `±`                	|
 | `neq` 		   |   `≠`                	|
 | `middot` 		   |   `·` 					|

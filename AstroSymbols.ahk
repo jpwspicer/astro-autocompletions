@@ -559,6 +559,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::;deg::°
 ::;degree::°
+::;angle::∠
 ::;pm::±
 ::;neq::≠
 ::;approx::≈
@@ -571,6 +572,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::;div::÷
 ::;cbrt::∛
 ::;sqrt::√
+::;otimes::⊗
+::;kron::⊗
 ::;prime::′
 ::;pprime::″
 ::;ppprime::‴
