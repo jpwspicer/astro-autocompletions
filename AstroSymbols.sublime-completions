@@ -568,6 +568,7 @@
 
 		{ "trigger": "middot", 			"contents": "⋅"		},
 		{ "trigger": "cross", 			"contents": "×" 	},
+		{ "trigger": "times", 			"contents": "×" 	},
 		{ "trigger": "mult", 			"contents": "×" 	},
 		{ "trigger": "div", 			"contents": "÷" 	},
 		{ "trigger": "cbrt", 			"contents": "∛" 	},
