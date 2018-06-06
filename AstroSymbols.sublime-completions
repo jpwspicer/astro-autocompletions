@@ -560,6 +560,7 @@
 		{ "trigger": "deg", 			"contents": "°" 	},
 		{ "trigger": "degree", 			"contents": "°" 	},
 		{ "trigger": "angle", 			"contents": "∠"     },
+		{ "trigger": "diameter",		"contents": "⌀"     },
 		{ "trigger": "pm", 				"contents": "±" 	},
 		{ "trigger": "neq", 			"contents": "≠" 	},
 		{ "trigger": "approx", 			"contents": "≈" 	},
