@@ -541,6 +541,7 @@ Complete List of Auto-Completions
 | `deg` 		   |   `°`                	|
 | `degree` 		   |   `°`                	|
 | `angle` 		   |   `∠` 					|
+| `diameter` 	   |   `⌀` 					|
 | `pm` 			   |   `±`                	|
 | `neq` 		   |   `≠`                	|
 | `middot` 		   |   `·` 					|
