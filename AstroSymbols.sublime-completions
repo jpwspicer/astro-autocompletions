@@ -566,6 +566,8 @@
 		{ "trigger": "approx", 			"contents": "≈" 	},
 		{ "trigger": "napprox", 		"contents": "≉" 	},
 		{ "trigger": "prop", 			"contents": "∝" 	},
+		{ "trigger": "perp", 			"contents": "⟂" 	},
+		
 
 		{ "trigger": "middot", 			"contents": "⋅"		},
 		{ "trigger": "cross", 			"contents": "×" 	},
