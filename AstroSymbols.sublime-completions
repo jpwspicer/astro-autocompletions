@@ -545,6 +545,8 @@
 		{ "trigger": "2pi",				"contents": "2π" 	},
 		{ "trigger": "micro",			"contents": "μ" 	},
 		{ "trigger": "check",			"contents": "✓" 	},
+		{ "trigger": "ohm",			"contents": "Ω" 	},
+		{ "trigger": "Ohm",			"contents": "Ω" 	},
 
 		{ "trigger": "lat",				"contents": "ϕ" 	},
 		{ "trigger": "lon",				"contents": "λ" 	},
@@ -567,6 +569,7 @@
 		{ "trigger": "napprox", 		"contents": "≉" 	},
 		{ "trigger": "prop", 			"contents": "∝" 	},
 		{ "trigger": "perp", 			"contents": "⟂" 	},
+		{ "trigger": "infty", 			"contents": "∞" 	},
 		
 
 		{ "trigger": "middot", 			"contents": "⋅"		},
