@@ -530,6 +530,8 @@ Complete List of Auto-Completions
 | `omegatilde` 	   |   `ω̃`                	|
 | `2pi`			   |   `2π`                	|
 | `micro`		   |   `μ`                	|
+| `ohm`        |   `Ω`                  |
+| `Ohm`        |   `Ω`                  |
 | `check`		   |   `✓`                	|
 | `lat`			   |   `ϕ`                	|
 | `lon`			   |   `λ`                	|
@@ -554,6 +556,7 @@ Complete List of Auto-Completions
 | `pprime` 		   |   `″`                	|
 | `ppprime` 	   |   `‴`                	|
 | `pppprime` 	   |   `⁗`                	|
+| `infty`        |   `∞`                  |
 | `leftarrow` 	   |   `←`                	|
 | `rightarrow` 	   |   `→` 					|
 | `leftrightarrow` |   `↔`					|
