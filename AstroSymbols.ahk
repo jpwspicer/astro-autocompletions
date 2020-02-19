@@ -5,18 +5,19 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Hotstring C R
 
-FormatTime, Time, ,HH:mm
-FormatTime, Date, ,yyyy-MM-dd
-
 ::;time::
+FormatTime, Time, ,HH:mm
 SendInput, %Time%
 Return
 
 ::;date::
+FormatTime, Date, ,yyyy-MM-dd
 SendInput, %Date%
 Return
 
 ::;datetime::
+FormatTime, Date, ,yyyy-MM-dd
+FormatTime, Time, ,HH:mm
 SendInput, %Date% %Time%
 Return
 
