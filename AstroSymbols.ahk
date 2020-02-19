@@ -17,7 +17,7 @@ SendInput, %Date%
 Return
 
 ::;datetime::
-SendInput, %Date%T%Time%
+SendInput, %Date% %Time%
 Return
 
 ; Small Greek letters
