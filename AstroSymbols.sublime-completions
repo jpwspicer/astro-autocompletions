@@ -599,6 +599,8 @@
 		{ "trigger": "lrarr",			"contents": "↔" 	},
 		{ "trigger": "uarr", 			"contents": "↑" 	},
 		{ "trigger": "darr", 			"contents": "↓" 	},
-		{ "trigger": "udarr", 			"contents": "↕" 	}
+		{ "trigger": "udarr", 			"contents": "↕" 	},
+
+		{ "trigger": "ss", 				"contents": "§" 	}
 	]
 }
