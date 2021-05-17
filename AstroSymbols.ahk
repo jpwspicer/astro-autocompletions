@@ -1,4 +1,6 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+﻿; Written by James Spicer
+
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #SingleInstance force
 #NoTrayIcon
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
@@ -617,5 +619,7 @@ Return
 ::;udarr::↕
 
 ::;ss::§
+::;gbp::£
+::;pound::£
 
 return

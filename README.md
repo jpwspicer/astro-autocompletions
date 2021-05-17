@@ -1,15 +1,47 @@
-Astronomical & Mathematical Symbols for Sublime Text
-==================================
+# Astronomical & Mathematical Auto-Completions
+
+Provides auto-completion for unicode characters:
+* Mathematical operators (a ⨯ b, ÷, ±, ≠, π ≈ 22/7, ∞, 5°, ∛, a⋅b, etc.). 
+* Celestial symbols (R⨁, μ☉, ♂, ♃, etc.)
+* Uppercase and lowercase Greek letters (2πr, v = fλ, μm, v = ωr, β, mΩ, etc.)
+* Arrows (→, ←, ↑, ↓, ↔)
+* Dot- and double-dot derivative notation (v = ṙ, a = v̇ = r̈, etc.)
+* Super- and subscripts (c₀, r₂, x², y⁵, etc.)
+* Vector notation (g⃗, f⃗, β⃗, Ω⃗, etc.)
+
+If some glyphs do not display in your browser, text editor, or REPL, adjust the font used by these applications. [FreeMono][0] displays most glyphs correctly.
+
+## Global / System-Wide / Any App (Windows)
+### Usage
+
+Auto-completions are triggered automatically by a `<space>` keypress after typing the desired symbol name. Symbol names are prefixed with a semicolon to prevent undesired behaviour, so `;micro` auto-completes to `μ` while `micro` does not.
+
+### Installation
+1. Download AutoHotkey
+2. Download .ahk file from this repository, add to startup folder (can be accessed via Start > Run > `shell:Startup`)
+
+### Examples
+
+| Entered Text |  Result  |
+| ------:      | :----    |
+| `;earth`     |   `⨁`    |
+| `;muearth`   |   `μ⨁`   |
+| `;remoon`    |   `R☾`   |
+| `;sun`       |   `☉`    |
+| `;omegatilde`|   `ω̃`    |
+| `;hvec`	   |   `h⃗`    |
+| `;Rvec`      |   `R⃗`    |
+| `;omegadot`  |   `ω̇`    |
+| `;eddot`     |   `ë`    |
+| `f;_0`       |   `f₀`   |
 
 
-This package Provides auto-completion for unicode astronomical and mathematical symbols in Sublime Text. It includes celestial symbols (`⨁`, `♂`, `☉`, `♃`, etc.), Greek letters (`α`, `Γ`, `Ω`, `ω`, etc.), vector notation (`g⃗`, `f⃗`, `β⃗`, `Ω⃗`, etc.), dot- and double-dot derivative notation (`ȧ`, `Q̇`, `μ̈`, `ϕ̈`, etc.), super- and subscripts (`₀`, `₂`, `²`, `⁵`, etc.), and various other symbols (`⨯`, `ω̃`, `÷`, `°`, `∛`, etc.). Just enter a the name of the desired symbol and press `<tab>`.
+## Sublime Text (any OS)
+### Usage
 
+Auto-completions are triggered by a `<tab>` keypress after typing the desired symbol name.
 
-Warning: This package may appear to be missing characters, or they may not display correctly in your browser, text editor, and/or REPL. If this is the case, check your choice of fonts in these applications, as there are known issues with glyphs in many fonts. [FreeMono][0] displays the majority of the glyphs correctly.
-
-
-Examples
---------
+### Examples
 
 | Entered Text     |  Result  |
 | ------:          | :----    |
@@ -25,13 +57,8 @@ Examples
 | `f_0<tab>`       |   `f₀`   |
 
 
-
-
-Installation
-------------
-
-
-### Package Control
+### Installation
+#### Option 1: Package Control
 
 You can install this package manually by installing [Package Control][1], press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type or paste [https://github.com/jpwspicer/sublime-astro-symbols.git][2].
 
@@ -39,11 +66,11 @@ Then press `<Ctrl+Shift+P>`, choose `Package Control: Install Package`from the l
 
 If that doesn't work, press `<Ctrl+Shift+P>`, choose `Package Control: Advanced Install Package`from the list and type in `sublime-astro-symbols`.
 
-### Git Clone
+#### Option 2: Git Clone
 
 Clone this repository in to the Sublime Text `Packages` directory, which is located whereever the _Preferences_ → _Browse Packages_ option in Sublime.
 
-### Git Copy
+#### Option 3: Git Copy
 
 Alternately, you can [download][3] a copy of this package, rename the file to `AstroSymbols.sublime-package` and move it to the `Installed Packages` directory which is located in the same directory as the `Packages` directory. Afterwards, restart Sublime and you're done.
 
@@ -52,11 +79,9 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 [2]: https://github.com/jpwspicer/sublime-astro-symbols.git "Astro Symbols on GitHub"
 [3]: https://github.com/jpwspicer/sublime-astro-symbols/archive/master.zip "ZIP-Archive of Astro Symbols"
 
-Complete List of Auto-Completions
------------------------------
+## Complete List of Auto-Completions
 
-
-| Entered Text     |  Result after `<tab>`	|
+| Entered Text     |  Result            	|
 | -----:      	   | :------ 			  	|
 | `alpha` 		   |   `α`    			  	|
 | `beta` 		   |   `β`    			  	|
@@ -570,3 +595,5 @@ Complete List of Auto-Completions
 | `darr` 		   |   `↓`              	|
 | `udarr` 		   |   `↕`              	|
 | `ss` 		   	   |   `§`              	|
+| `gbp` 		   |   `£`              	|
+| `pound` 		   |   `£`              	|

@@ -601,6 +601,8 @@
 		{ "trigger": "darr", 			"contents": "↓" 	},
 		{ "trigger": "udarr", 			"contents": "↕" 	},
 
-		{ "trigger": "ss", 				"contents": "§" 	}
+		{ "trigger": "ss", 				"contents": "§" 	},
+		{ "trigger": "gbp", 			"contents": "£" 	},
+		{ "trigger": "pound", 			"contents": "£" 	}
 	]
 }
