@@ -1,29 +1,32 @@
 # Astronomical & Mathematical Auto-Completions
 
 Provides auto-completion for unicode characters:
-* Mathematical operators (a ⨯ b, ÷, ±, ≠, π ≈ 22/7, ∞, 5°, ∛, a⋅b, etc.). 
-* Celestial symbols (R⨁, μ☉, ♂, ♃, etc.)
-* Uppercase and lowercase Greek letters (2πr, v = fλ, μm, v = ωr, β, mΩ, etc.)
-* Arrows (→, ←, ↑, ↓, ↔)
+* Mathematical operators (÷, ±, ≠, π ≈ 22/7, ∞, 5°, ∛, a ⨯ b, a⋅b, etc.). 
+* Celestial symbols (R⨁, μ☉, `♂`, ♃, etc.)
+* Uppercase and lowercase Greek letters (2πr, v = fλ, μrad, v = ωr, β, mΩ, etc.)
+* Arrows (→, ←, ↑, ↓, `↔`)
 * Dot- and double-dot derivative notation (v = ṙ, a = v̇ = r̈, etc.)
 * Super- and subscripts (c₀, r₂, x², y⁵, etc.)
-* Vector notation (g⃗, f⃗, β⃗, Ω⃗, etc.)
+* Vector notation (`g⃗`, `f⃗`, `β⃗`, `Ω⃗`, etc.)
 
 If some glyphs do not display in your browser, text editor, or REPL, adjust the font used by these applications. [FreeMono][0] displays most glyphs correctly.
 
 ## Global / System-Wide / Any App (Windows)
 ### Usage
 
-Auto-completions are triggered automatically by a `<space>` keypress after typing the desired symbol name. Symbol names are prefixed with a semicolon to prevent undesired behaviour, so `;micro` auto-completes to `μ` while `micro` does not.
+Auto-completions are triggered automatically by a `<space>` keypress after typing the desired symbol name. Symbol names are prefixed with a semicolon to prevent undesired triggering, so `;micro` auto-completes to `μ` while `micro` does not.
 
 ### Installation
-1. Download AutoHotkey
-2. Download .ahk file from this repository, add to startup folder (can be accessed via Start > Run > `shell:Startup`)
+1. Download [AutoHotkey][4].
+2. Download the `.ahk` file from this repository to your system's startup folder (accessed via Start > Run > `shell:Startup`) to make auto-completions available on boot.
 
 ### Examples
 
 | Entered Text |  Result  |
 | ------:      | :----    |
+| `;date`      | `2021-05-17` (completes to current date) |
+| `;time`      | `12:02` (completes to current local time) |
+| `;time`      | `2021-05-17 12:02` (completes to current local date & time) |
 | `;earth`     |   `⨁`    |
 | `;muearth`   |   `μ⨁`   |
 | `;remoon`    |   `R☾`   |
@@ -33,7 +36,7 @@ Auto-completions are triggered automatically by a `<space>` keypress after typin
 | `;Rvec`      |   `R⃗`    |
 | `;omegadot`  |   `ω̇`    |
 | `;eddot`     |   `ë`    |
-| `f;_0`       |   `f₀`   |
+| `t;_0`       |   `t₀`   |
 
 
 ## Sublime Text (any OS)
@@ -78,6 +81,7 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 [1]: https://packagecontrol.io/ "Package Control"
 [2]: https://github.com/jpwspicer/sublime-astro-symbols.git "Astro Symbols on GitHub"
 [3]: https://github.com/jpwspicer/sublime-astro-symbols/archive/master.zip "ZIP-Archive of Astro Symbols"
+[4]: https://www.autohotkey.com/download/ahk-install.exe "Download AutoHotkey"
 
 ## Complete List of Auto-Completions
 
