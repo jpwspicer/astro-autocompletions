@@ -6,7 +6,7 @@ Provides auto-completion for unicode characters:
 * Uppercase and lowercase Greek letters (2πr, v = fλ, μrad, v = ωr, β, mΩ, etc.)
 * Arrows (→, ←, ↑, ↓, `↔`)
 * Dot- and double-dot derivative notation (v = ṙ, a = v̇ = r̈, etc.)
-* Super- and subscripts (c₀, r₂, x², y⁵, etc.)
+* Super- and subscripts (`c₀`, `r₂`, `x²`, `y⁵`, etc.)
 * Vector notation (`g⃗`, `f⃗`, `β⃗`, `Ω⃗`, etc.)
 
 If some glyphs do not display in your browser, text editor, or REPL, adjust the font used by these applications. [FreeMono][0] displays most glyphs correctly.
