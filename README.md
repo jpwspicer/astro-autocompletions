@@ -26,7 +26,7 @@ Auto-completions are triggered automatically by a `<space>` or `<tab>` keypress 
 | ------:      | :----    |
 | `;date`      | `2021-05-17` (completes to current date) |
 | `;time`      | `12:02` (completes to current local time) |
-| `;time`      | `2021-05-17 12:02` (completes to current local date & time) |
+| `;datetime`  | `2021-05-17 12:02` (completes to current local date & time) |
 | `;earth`     |   `⨁`    |
 | `;muearth`   |   `μ⨁`   |
 | `;remoon`    |   `R☾`   |
