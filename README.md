@@ -63,24 +63,24 @@ Auto-completions are triggered by a `<tab>` keypress after typing the desired sy
 ### Installation
 #### Option 1: Package Control
 
-You can install this package manually by installing [Package Control][1], press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type or paste [https://github.com/jpwspicer/sublime-astro-symbols.git][2].
+You can install this package manually by installing [Package Control][1], press `<Ctrl+Shift+P>`, choose `Package Control: Add Repository` from the list and type or paste [https://github.com/jpwspicer/astro-autocompletions][2].
 
 Then press `<Ctrl+Shift+P>`, choose `Package Control: Install Package`from the list and search for `AstroSymbols`.
 
-If that doesn't work, press `<Ctrl+Shift+P>`, choose `Package Control: Advanced Install Package`from the list and type in `sublime-astro-symbols`.
+If that doesn't work, press `<Ctrl+Shift+P>`, choose `Package Control: Advanced Install Package`from the list and type in `astro-autocompletions`.
 
 #### Option 2: Git Clone
 
-Clone this repository in to the Sublime Text `Packages` directory, which is located whereever the _Preferences_ → _Browse Packages_ option in Sublime.
+Clone this repository in to the Sublime Text `Packages` directory, which is located wherever the _Preferences_ → _Browse Packages_ option points to in Sublime.
 
 #### Option 3: Git Copy
 
-Alternately, you can [download][3] a copy of this package, rename the file to `AstroSymbols.sublime-package` and move it to the `Installed Packages` directory which is located in the same directory as the `Packages` directory. Afterwards, restart Sublime and you're done.
+Alternately, you can [download][3] a copy of this package, rename the file to `AstroAutocompletions.sublime-package` and move it to the `Installed Packages` directory which is located in the same directory as the `Packages` directory. Afterwards, restart Sublime and you're done.
 
 [0]: http://www.fontspace.com/gnu-freefont/freemono "FreeMono Font"
 [1]: https://packagecontrol.io/ "Package Control"
-[2]: https://github.com/jpwspicer/sublime-astro-symbols.git "Astro Symbols on GitHub"
-[3]: https://github.com/jpwspicer/sublime-astro-symbols/archive/master.zip "ZIP-Archive of Astro Symbols"
+[2]: https://github.com/jpwspicer/astro-autocompletions.git "Astro Symbols on GitHub"
+[3]: https://github.com/jpwspicer/astro-autocompletions/archive/master.zip "ZIP-Archive of Astro Symbols"
 [4]: https://www.autohotkey.com/download/ahk-install.exe "Download AutoHotkey"
 
 ## Complete List of Auto-Completions
