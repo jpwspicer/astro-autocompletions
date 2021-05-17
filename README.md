@@ -1,7 +1,7 @@
 # Astronomical & Mathematical Auto-Completions
 
 Provides auto-completion for unicode characters:
-* Mathematical operators (÷, ±, ≠, π ≈ 22/7, ∞, 5°, ∛, a ⨯ b, a⋅b, etc.). 
+* Mathematical operators (÷, ±, ≠, ∞, 180° = π rad ≈ 22/7 rad, ∛, a ⨯ b, a⋅b, etc.). 
 * Celestial symbols (R⨁, μ☉, `♂`, ♃, etc.)
 * Uppercase and lowercase Greek letters (2πr, v = fλ, μrad, v = ωr, β, mΩ, etc.)
 * Arrows (→, ←, ↑, ↓, `↔`)
