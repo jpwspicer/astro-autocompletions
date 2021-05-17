@@ -1,8 +1,10 @@
+// Written by James Spicer
+
 {
   "scope": "",
 	"completions":
 	[
-// Small Greek letters
+// Lowercase Greek letters
 		{ "trigger": "alpha", 			"contents": "α",	},
 		{ "trigger": "beta", 			"contents": "β",	},
 		{ "trigger": "gamma", 			"contents": "γ",	},
@@ -30,7 +32,7 @@
 		{ "trigger": "psi", 			"contents": "ψ",	},
 		{ "trigger": "omega", 			"contents": "ω",	},
 
-// Capital Greek letters
+// Uppercase Greek letters
 		{ "trigger": "Alpha",			"contents": "Α",	},
 		{ "trigger": "Beta",			"contents": "Β",	},
 		{ "trigger": "Gamma",			"contents": "Γ",	},
