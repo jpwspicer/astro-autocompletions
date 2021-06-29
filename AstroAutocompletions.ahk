@@ -621,5 +621,6 @@ Return
 ::;ss::§
 ::;gbp::£
 ::;pound::£
+::;euro::€
 
 return

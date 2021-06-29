@@ -601,3 +601,4 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 | `ss` 		   	   |   `§`              	|
 | `gbp` 		   |   `£`              	|
 | `pound` 		   |   `£`              	|
+| `euro`		   |   `€`					|

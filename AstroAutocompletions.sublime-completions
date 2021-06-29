@@ -601,10 +601,11 @@
 		{ "trigger": "lrarr",			"contents": "↔" 	},
 		{ "trigger": "uarr", 			"contents": "↑" 	},
 		{ "trigger": "darr", 			"contents": "↓" 	},
-		{ "trigger": "udarr", 			"contents": "↕" 	},
+		{ "trigger": "udarr", 		"contents": "↕" 	},
 
 		{ "trigger": "ss", 				"contents": "§" 	},
 		{ "trigger": "gbp", 			"contents": "£" 	},
-		{ "trigger": "pound", 			"contents": "£" 	}
+		{ "trigger": "pound", 		"contents": "£" 	},
+		{ "trigger": "euro", 		  "contents": "€" 	}
 	]
 }
