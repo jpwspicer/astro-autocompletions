@@ -622,5 +622,6 @@ Return
 ::;gbp::£
 ::;pound::£
 ::;euro::€
+::;AE::Æ
 
 return

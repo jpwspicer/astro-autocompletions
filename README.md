@@ -602,3 +602,4 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 | `gbp` 		   |   `£`              	|
 | `pound` 		   |   `£`              	|
 | `euro`		   |   `€`					|
+| `AE`             |   `Æ`                  |

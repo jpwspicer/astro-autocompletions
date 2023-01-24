@@ -606,6 +606,7 @@
 		{ "trigger": "ss", 				"contents": "§" 	},
 		{ "trigger": "gbp", 			"contents": "£" 	},
 		{ "trigger": "pound", 		"contents": "£" 	},
-		{ "trigger": "euro", 		  "contents": "€" 	}
+		{ "trigger": "euro", 		  "contents": "€" 	},
+		{ "trigger": "AE",        "contents": "Æ"   }
 	]
 }
