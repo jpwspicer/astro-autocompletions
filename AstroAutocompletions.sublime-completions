@@ -607,6 +607,7 @@
 		{ "trigger": "gbp", 			"contents": "£" 	},
 		{ "trigger": "pound", 		"contents": "£" 	},
 		{ "trigger": "euro", 		  "contents": "€" 	},
-		{ "trigger": "AE",        "contents": "Æ"   }
+		{ "trigger": "AE",        "contents": "Æ"   },
+		{ "trigger": "propto",    "contents": "∝"   }
 	]
 }

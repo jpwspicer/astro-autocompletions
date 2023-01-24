@@ -14,7 +14,7 @@ If some glyphs do not display in your browser, text editor, or REPL, adjust the 
 ## Global / System-Wide / Any App (Windows)
 ### Usage
 
-Auto-completions are triggered automatically by a `<space>` or `<tab>` keypress after typing the desired symbol name. Symbol names are prefixed with a semicolon to prevent undesired triggering, so `;micro` auto-completes to `μ` while `micro` does not.
+Auto-completions uses AutoHotkey hotstrings to automatically trigger by typing the desired symbol name (by an ending character [`<space>` or `<tab>`] for `date` and standalone Greek letters). Symbol names are prefixed with a semicolon to prevent undesired triggering, so `;micro` auto-completes to `μ` while `micro` does not.
 
 ### Installation
 1. Download [AutoHotkey][4].
@@ -603,3 +603,4 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 | `pound` 		   |   `£`              	|
 | `euro`		   |   `€`					|
 | `AE`             |   `Æ`                  |
+| `propto`         |   `∝`                  |
