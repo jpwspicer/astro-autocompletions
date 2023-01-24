@@ -8,6 +8,7 @@ Provides auto-completion for unicode characters:
 * Dot- and double-dot derivative notation (v = ṙ, a = v̇ = r̈, etc.)
 * Super- and subscripts (`c₀`, `r₂`, `x²`, `y⁵`, etc.)
 * Vector notation (`g⃗`, `f⃗`, `β⃗`, `Ω⃗`, etc.)
+* Date, time, and datetime string autocompletions that insert the current local date & time.
 
 If some glyphs do not display in your browser, text editor, or REPL, adjust the font used by these applications. [FreeMono][0] displays most glyphs correctly.
 
@@ -81,7 +82,7 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 [1]: https://packagecontrol.io/ "Package Control"
 [2]: https://github.com/jpwspicer/astro-autocompletions.git "Astro Symbols on GitHub"
 [3]: https://github.com/jpwspicer/astro-autocompletions/archive/master.zip "ZIP-Archive of Astro Symbols"
-[4]: https://www.autohotkey.com/download/ahk-install.exe "Download AutoHotkey"
+[4]: https://www.autohotkey.com/download/ahk-v2.exe "Download AutoHotkey v2"
 
 ## Complete List of Auto-Completions
 
