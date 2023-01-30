@@ -13,7 +13,7 @@
 
 #SingleInstance
 
-:*?:;time::
+::;time:: ; needs ending character otherwise won't allow times hotstring.
 {
 	SendInput FormatTime(, "HH:mm")
 }
