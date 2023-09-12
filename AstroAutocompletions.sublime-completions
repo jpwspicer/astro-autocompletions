@@ -504,7 +504,8 @@
 
 
 
-
+		{ "trigger": "aring", 			"contents": "å" 	},
+		{ "trigger": "Aring", 			"contents": "Å" 	},
 
 		{ "trigger": "rsun", 			"contents": "R☉" 	},
 		{ "trigger": "reSun", 			"contents": "R☉" 	},

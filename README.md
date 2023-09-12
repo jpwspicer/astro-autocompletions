@@ -529,6 +529,8 @@ Alternately, you can [download][3] a copy of this package, rename the file to `A
 | `_rho` 		   |   `ᵨ`                	|
 | `_phi` 		   |   `ᵩ`                	|
 | `_chi` 		   |   `ᵪ`                	|
+| `aring` 		   |   `å`               	|
+| `Aring` 		   |   `Å`               	|
 | `rsun` 		   |   `R☉`               	|
 | `reSun` 		   |   `R☉`               	|
 | `msun` 		   |   `m☉`               	|
