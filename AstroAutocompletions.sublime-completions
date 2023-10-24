@@ -611,6 +611,7 @@
 		{ "trigger": "AE",        "contents": "Æ"   },
 		{ "trigger": "propto",    "contents": "∝"   },
 		{ "trigger": "nbsp",      "contents": " "   },
-		{ "trigger": "nbhp",			"contents": "‑"   }
+		{ "trigger": "nbhp",			"contents": "‑"   },
+		{ "trigger": "vellip",		"contents": "⋮"   }
 	]
 }
