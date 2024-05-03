@@ -608,6 +608,7 @@
 		{ "trigger": "gbp", 			"contents": "£" 	},
 		{ "trigger": "pound", 		"contents": "£" 	},
 		{ "trigger": "euro", 		  "contents": "€" 	},
+		{ "trigger": "yen", 		  "contents": "¥" 	},
 		{ "trigger": "AE",        "contents": "Æ"   },
 		{ "trigger": "propto",    "contents": "∝"   },
 		{ "trigger": "nbsp",      "contents": " "   },
